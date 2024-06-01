@@ -1,2 +1,0 @@
-# TemK-
-Temka Web Development
